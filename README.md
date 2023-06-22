@@ -160,13 +160,10 @@ switch (cnt);
 }
 }
 ```
-
 ## CIRCUIT DIAGRAM:
-
 ![](https://github.com/Shakthikumar22009242/Interfacing-Seven-Segment-Display/blob/main/PIOT_EX08-1.png)
 
 ## OUTPUT:
-
 ![](https://github.com/Shakthikumar22009242/Interfacing-Seven-Segment-Display/blob/main/PIOT_EX08-2.png)
 
 ## RESULT:
